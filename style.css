@@ -1,7 +1,25 @@
-root{
-    --bg-color: #d63939;
-}
 
 body{
-    background-color: var(--bg-color);
+ 
+    justify-content: center;
+    align-items: center;
+    
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+}
+
+input{
+    width: 400px;
+}
+
+div{
+    height: 100px;
+    width: 400px;
+    padding: 16px;
+    border: 2px solid black
 }
