@@ -1,3 +1,2 @@
 # PWFE
-# PWFE
-# validarvcores
+# validar cores
